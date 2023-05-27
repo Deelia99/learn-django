@@ -174,3 +174,32 @@ python manage.py runserver
 
 6. Profile View (Customer)  
 ![Screenshot 2023-05-27 110111](https://github.com/drshahizan/learn-django/assets/120616074/cb462bcd-3f6d-4d84-a3c6-aa481708941b)
+
+<h3>Public</h3>
+
+1. Public Home Page and Contact Inquiries
+![Home Page and contacts](https://github.com/drshahizan/learn-django/assets/120613814/2b742458-80ce-4e25-8895-fc211dc4368d)
+
+2. Services Provided
+![Services 1](https://github.com/drshahizan/learn-django/assets/120613814/b0241f86-a7d9-4eb3-874f-86119211abb6)
+![services 2](https://github.com/drshahizan/learn-django/assets/120613814/4a65abce-5054-4f7a-813f-7615f099f67a)
+![Services 3](https://github.com/drshahizan/learn-django/assets/120613814/4501c572-fcfb-4955-96b8-24be40623899)
+![services 4](https://github.com/drshahizan/learn-django/assets/120613814/9110fc96-fb28-4726-a084-9954654d14fe)
+![services 5](https://github.com/drshahizan/learn-django/assets/120613814/7167b3ab-50cf-467c-a542-46e6d534ea99)
+![services 6](https://github.com/drshahizan/learn-django/assets/120613814/a385b05e-b9ba-4301-af2e-a780205a4b9d)
+![services 7](https://github.com/drshahizan/learn-django/assets/120613814/851ed73b-f47b-4ed8-b5ec-9247d6e63d69)
+
+3. Booking page Public View 
+![Booking Public View Asked to Sign In first](https://github.com/drshahizan/learn-django/assets/120613814/907e17f7-cce7-4c81-a9d1-514bbab0a2ab)
+
+4. Sign up form
+![Sign up 1](https://github.com/drshahizan/learn-django/assets/120613814/c430711c-62a8-479d-bca5-a3cf39e602b0)
+![Sign up 2](https://github.com/drshahizan/learn-django/assets/120613814/95faf0bc-107e-4093-8365-5a99e5d5a531)
+
+5. Sign In form
+![Sign 1](https://github.com/drshahizan/learn-django/assets/120613814/f7a41903-d00c-4f5d-901a-af101bf0231a)
+
+
+
+
+
